@@ -21,7 +21,9 @@
     <ol>
       <li>Clone the repository: <code>git clone https://github.com/ngocthien2306/mask-detection.git</code></li>
       <li>Install the required libraries: <code>pip install -r requirements.txt</code></li>
-      <li>Download the pre-trained model weights: https://drive.google.com/drive/folders/1Q-FmQ-EYT_AoabuVOSsXdfTnUQLT33nH?usp=sharing</li><li>Place the model weights in the <code>model</code> directory</li>
+      <li>Download the pre-trained model weights: https://drive.google.com/drive/folders/1Q-FmQ-EYT_AoabuVOSsXdfTnUQLT33nH?usp=sharing</li>
+      <li>Place the model weights in the <code>model</code> directory</li>
+
       <li>Run the script using your preferred method</li>
      </ol>
      <h2>Credits</h2>
